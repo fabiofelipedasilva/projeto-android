@@ -1,4 +1,4 @@
 ##
 PROJETO EM ANDAMENTO
-<p>
-Aqui é o projeto feito no curso em vídeo do professor Gustavo Guanabara!!
+<Projeto feito no curso em vídeo do professor Gustavo Guanabara!!
+Realizado com HTML e CSS
