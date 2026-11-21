@@ -1,0 +1,33 @@
+.page-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto 30px;
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+}
+
+.page-navigation .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #3ddc84;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.page-navigation .btn:hover {
+    background-color: #2db96d;
+}
+
+@media (max-width: 400px) {
+    .page-navigation .btn {
+        padding: 10px 14px;
+    }
+}
